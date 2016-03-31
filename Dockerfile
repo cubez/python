@@ -1,4 +1,4 @@
-FROM cubez/appserver
+FROM cubez/base
 MAINTAINER cubez <cubez@cubez.nl>
 
 # Variables
